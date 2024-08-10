@@ -1,3 +1,6 @@
+![WELCOME TO MY HOME NETWORK](https://github.com/ManolisCraftedTech/Home-Network/blob/main/%CE%97%CE%9F%CE%9C%CE%95%20%CE%9D%CE%95%CE%A4.drawio.png)
+
+
 <h1> <img width="64" height="64" src="https://img.icons8.com/external-flatart-icons-lineal-color-flatarticons/64/external-firewall-web-hosting-flatart-icons-lineal-color-flatarticons-1.png" alt="external-firewall-web-hosting-flatart-icons-lineal-color-flatarticons-1"/> Firewall rules Configuration </h1>
 
 - Block  Incoming Ping Requests
