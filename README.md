@@ -1,4 +1,4 @@
-<h1> link type="image/png" sizes="16x16" rel="icon" href=".../icons8-firewall-16.png">  Firewall rules Configuration </h1>
+<h1> <img width="64" height="64" src="https://img.icons8.com/external-flatart-icons-lineal-color-flatarticons/64/external-firewall-web-hosting-flatart-icons-lineal-color-flatarticons-1.png" alt="external-firewall-web-hosting-flatart-icons-lineal-color-flatarticons-1"/> Firewall rules Configuration </h1>
 
 - Block  Incoming Ping Requests
 
