@@ -1,3 +1,17 @@
+<H1></H1> Home Network Documentation <H1></H1> 
+
+-  Connected the ISP router to the MikroTik router’s WAN port to ensure internet connectivity. This setup allows the MikroTik router to manage internal network traffic.
+
+-  Configured the MikroTik router to manage the WiFi network with an IP range of 10.10.10.0/24. The DHCP server is set to assign IP addresses from 10.10.10.2 to 10.10.10.254, providing wireless devices with appropriate IP addresses.
+
+ - Configured network with an IP range of 192.168.20.0/24 on the MikroTik router. The DHCP server allocates IP addresses from 192.168.20.2 to 192.168.20.254 to devices connected via Ethernet.
+
+ - Implemented custom firewall rules on the MikroTik router to secure and control traffic between the WiFi and LAN networks, as well as to manage external access through the ISP router.
+
+ - Added Raspberry pi5 for DNS provider Ensuring ad avoidance by activating Pi hole blocklists
+   
+
+
 ![WELCOME TO MY HOME NETWORK](https://github.com/ManolisCraftedTech/Home-Network/blob/main/%CE%97%CE%9F%CE%9C%CE%95%20%CE%9D%CE%95%CE%A4.drawio.png)
 
 
