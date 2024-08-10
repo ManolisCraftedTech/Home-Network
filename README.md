@@ -8,7 +8,7 @@
 
  - Implemented custom firewall rules on the MikroTik router to secure and control traffic between the WiFi and LAN networks, as well as to manage external access through the ISP router.
 
- - Added Raspberry pi5 for DNS provider Ensuring ad avoidance by activating Pi hole blocklists
+ - Added [Raspberry pi5](https://github.com/ManolisCraftedTech/RaspberryDNS) for DNS provider Ensuring ad avoidance by activating Pi hole blocklists
    
 
 
