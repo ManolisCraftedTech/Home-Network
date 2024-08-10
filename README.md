@@ -1,6 +1,6 @@
 <h1># Mikrotik routerboard Firewall rules Configuration </h1>
 
-- Block  Incoming Ping Requests
+<h2>- Block  Incoming Ping Requests</h2>
 
 /ip firewall filter add chain=input protocol=icmp action=drop comment="Block all incoming ping requests (ICMP)"
 
