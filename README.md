@@ -68,4 +68,6 @@
 
 /ip firewall filter add chain=forward action=log log-prefix="Dropped Forward: " log=yes comment="Log dropped forwarded packets"
 
+<h1>In the picture you can see all the firewall rules enabled.</h1>
+
 ![WELCOME TO MY HOME NETWORK](https://github.com/ManolisCraftedTech/Home-Network/blob/main/rules%20.png)
