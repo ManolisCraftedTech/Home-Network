@@ -1,4 +1,4 @@
- <h3> <img width="64" height="64" src="https://img.icons8.com/cute-clipart/64/home.png" alt="home"/>  Home network Documentation </h3>
+ <h3> <img width="35" height="35" src="https://img.icons8.com/cute-clipart/64/home.png" alt="home"/>  Home network Documentation </h3>
 
 -  Connected the ISP router to the MikroTik router’s WAN port to ensure internet connectivity. This setup allows the MikroTik router to manage internal network traffic.
 
