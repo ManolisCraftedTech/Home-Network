@@ -22,9 +22,6 @@ The infrastructure is segmented to ensure that untrusted devices (IoT) cannot co
 * **Traffic Isolation:** Firewall rules on the Mikrotik Routerboard prevent unauthorized access between the IoT and LAN segments.
 * **DNS Sinkholing:** A Raspberry Pi 5 running **Pi-hole** acts as the central DNS provider. This blocks telemetry/tracking at the network level and provides a layer of protection against malicious domains.
 * **Visibility:** Continuous monitoring of DNS queries to identify unusual traffic patterns.
-![Raspberry Pi](https://img.shields.io/badge/Hardware-Raspberry_Pi_5-C51A4A?logo=raspberry-pi&logoColor=white)
-![VPN](https://img.shields.io/badge/VPN-WireGuard-881717?logo=wireguard&logoColor=white)
-![Pi-hole](https://img.shields.io/badge/DNS-Pi--hole-96060C?logo=pi-hole&logoColor=white)
-![Mikrotik](https://img.shields.io/badge/Router-Mikrotik-004A99?logo=mikrotik&logoColor=white)
+
 ---
 ---
