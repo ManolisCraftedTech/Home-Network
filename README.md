@@ -5,7 +5,7 @@
 # 🛡️ Security-First Home Lab Infrastructure
 
 ## Philosophy: Defense in Depth
-My home network is built on the principle of **Defense in Depth**. It is not just about connectivity; it is about controlling the attack surface, enforcing traffic isolation, and minimizing exposure through proactive DNS filtering. This project serves as my sandbox for testing security configurations and monitoring network traffic.
+My home network is built on the principle of **Defense in Depth**. Enforcing traffic isolation, and minimizing exposure through proactive DNS filtering. This project serves as my sandbox for testing security configurations and monitoring network traffic.
 
 ## 🏗️ Architecture Overview
 ![Network Diagram](https://github.com/ManolisCraftedTech/Home-Network/blob/main/%CE%97%CE%9F%CE%9C%CE%95%20%CE%9D%CE%95%CE%A4.drawio.png)
