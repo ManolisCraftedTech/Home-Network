@@ -20,7 +20,7 @@ The infrastructure is segmented to ensure that untrusted devices (IoT) cannot co
 
 ### Core Security Controls
 * **Traffic Isolation:** Firewall rules on the Mikrotik Routerboard prevent unauthorized access between the IoT and LAN segments.
-* **DNS Sinkholing:** A Raspberry Pi 5 running **Pi-hole** acts as the central DNS provider. This blocks telemetry/tracking at the network level and provides a layer of protection against malicious domains.
+* **DNS Sinkholing:** A [Raspberry PI](https://github.com/ManolisCraftedTech/RaspberryDNS) running **Pi-hole** acts as the central DNS provider. This blocks telemetry/tracking at the network level and provides a layer of protection against malicious domains.
 * **Visibility:** Continuous monitoring of DNS queries to identify unusual traffic patterns.
 
 ---
